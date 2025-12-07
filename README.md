@@ -85,7 +85,7 @@ Zenn の記事にまとめています。
 このリポジトリをクローンして実行する場合:
 
 ```bash
-git clone https://github.com/markReo-code/react-youtube-modal-gallery.git
+git clone https://github.com/kaiminato/React-Youtube-Modal-Gallery.git
 cd react-youtube-modal-gallery
 npm install
 npm run dev
